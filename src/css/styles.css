@@ -20,6 +20,13 @@ body {
   margin-bottom: 16px;
 }
 
+#search-box::placeholder {
+      color: #666;
+      font-size: 1.2em;
+      font-style: italic;
+    }
+}
+
 .country-list {
   padding: 0px;
 }
